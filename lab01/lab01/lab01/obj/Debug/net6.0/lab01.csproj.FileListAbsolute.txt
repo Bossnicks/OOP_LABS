@@ -1,0 +1,15 @@
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\bin\Debug\net6.0\lab01.exe
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\bin\Debug\net6.0\lab01.deps.json
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\bin\Debug\net6.0\lab01.runtimeconfig.json
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\bin\Debug\net6.0\lab01.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\bin\Debug\net6.0\lab01.pdb
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.csproj.AssemblyReference.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.AssemblyInfoInputs.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.AssemblyInfo.cs
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.csproj.CoreCompileInputs.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\refint\lab01.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.pdb
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\lab01.genruntimeconfig.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab01\lab01\lab01\obj\Debug\net6.0\ref\lab01.dll
