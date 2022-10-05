@@ -1,0 +1,15 @@
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\bin\Debug\net6.0\lab03.exe
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\bin\Debug\net6.0\lab03.deps.json
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\bin\Debug\net6.0\lab03.runtimeconfig.json
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\bin\Debug\net6.0\lab03.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\bin\Debug\net6.0\lab03.pdb
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.csproj.AssemblyReference.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.AssemblyInfoInputs.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.AssemblyInfo.cs
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.csproj.CoreCompileInputs.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\refint\lab03.dll
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.pdb
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\lab03.genruntimeconfig.cache
+C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab03\lab03\lab03\obj\Debug\net6.0\ref\lab03.dll
