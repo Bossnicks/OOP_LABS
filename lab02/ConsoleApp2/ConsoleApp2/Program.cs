@@ -191,32 +191,3 @@ namespace SimpleAlgorithmsApp
             Console.WriteLine($"Номер стека с наибольшим верхним элементом: {maxMean + 1}, с наименьшим: {minMean + 1}");
             var user = new { Name = "Tom", Age = 34 };//анонимный тип
             Console.WriteLine($"{user.Name}, {user.Age} года");
-
-            //for(int i = 0; i < 3; i++)
-            //{
-            //    if (stack[i].Changer(ref elementOfStack, out i) 
-            //}
-            //stack.Push(7.8f);
-            //stack.Push(0f);
-            //stack.Push(-3.4f);
-            //stack.Push(5f);
-
-            //foreach (var item in stack)
-            //{
-            //    Console.WriteLine(item);
-            //}
-            //Console.WriteLine();
-            //float header = stack.Peek();
-            //Console.WriteLine($"Верхушка стека: {header}");
-            //Console.WriteLine();
-            //Console.WriteLine($"Количество элементов в стеке {stack.Count}");
-            //header = stack.Pop();
-            //foreach (var item in stack)
-            //{
-            //    Console.WriteLine(item);
-            //}
-            //Console.WriteLine($"Количество элементов в стеке {stack.Count}");
-
-        }
-    }
-}
