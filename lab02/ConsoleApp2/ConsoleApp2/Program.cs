@@ -15,7 +15,7 @@ namespace SimpleAlgorithmsApp
 
     namespace SimpleAlgorithmsApp
     {
-        
+
         public class Node<T>
         {
             public Node(T data)
@@ -117,14 +117,14 @@ namespace SimpleAlgorithmsApp
             public int identifier;
             public int Changer(ref int id, float fl)
             {
-                if(fl < 0)
+                if (fl < 0)
                 {
                     identifier = id;
                     return identifier;
                 }
                 return -1;
             }
-            
+
 
             IEnumerator IEnumerable.GetEnumerator()
             {
@@ -147,13 +147,14 @@ namespace SimpleAlgorithmsApp
         static void Main(string[] args)
         {
             Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en-US");
-            NodeStack<float> [] stack = new NodeStack<float>[3];
+            NodeStack<float>[] stack = new NodeStack<float>[3];
             bool flagForTime = true;
             for (int i = 0; i < 3; i++)
             {
                 bool flag = true;
                 Console.WriteLine($"Заполните {i + 1}-ый стек:");
-                while (flag) {
+                while (flag)
+                {
                     stack[i] = new NodeStack<float>();
                     if (flagForTime)
                     {
@@ -169,7 +170,7 @@ namespace SimpleAlgorithmsApp
                     stack[i].Push(elementOfStack);
                     Console.WriteLine("Хотите ввести ещё элемент\n(Введите 1 если да и 0 если нет):");
                     int x = int.Parse(Console.ReadLine());
-                    flag = x == 1 ?  true : false;                     
+                    flag = x == 1 ? true : false;
                 }
             }
             int maxMean = 0, minMean = 0;
@@ -177,7 +178,7 @@ namespace SimpleAlgorithmsApp
             float min = float.MinValue;
             for (int i = 0; i < 3; i++)
             {
-                if(stack[i].Peek() > min)
+                if (stack[i].Peek() > min)
                 {
                     min = stack[i].Peek();
                     maxMean = i;
@@ -191,3 +192,6 @@ namespace SimpleAlgorithmsApp
             Console.WriteLine($"Номер стека с наибольшим верхним элементом: {maxMean + 1}, с наименьшим: {minMean + 1}");
             var user = new { Name = "Tom", Age = 34 };//анонимный тип
             Console.WriteLine($"{user.Name}, {user.Age} года");
+        }
+    }
+}
