@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ConsoleApp1">
+      <HintPath>..\..\..\lab09\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll</HintPath>
+    </Reference>
+    <Reference Include="lab04">
+      <HintPath>..\..\..\lab05\lab04\lab04\lab04\bin\Debug\net6.0\lab04.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

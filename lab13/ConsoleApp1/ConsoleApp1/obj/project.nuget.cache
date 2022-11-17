@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wjzUZvrCbnUwZMyq7h6zkHNqaKVAJdfBsnq7y+Es+WsUgE8XteDlV2tlaHNlq0ZPwfCrWy3XxBa8PFvvpAmBRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab13\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

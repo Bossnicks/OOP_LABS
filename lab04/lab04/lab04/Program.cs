@@ -152,7 +152,7 @@ namespace lab05
     }
     public class Printer
     {
-        public void IAmPrinting(Animal item)
+        public void IAmPrinting(int item)
         {
             Console.WriteLine(item.ToString());
 

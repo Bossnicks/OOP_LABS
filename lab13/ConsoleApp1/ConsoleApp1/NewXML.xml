@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Сотрудники>
+  <employee birthyear="1989">
+    <name>Андрей</name>
+  </employee>
+  <child year="1995">
+    <name>Наташа</name>
+  </child>
+</Сотрудники>

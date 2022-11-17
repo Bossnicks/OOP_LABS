@@ -7,7 +7,12 @@ using System.Xml.Linq;
 using System.Data.Common;
 using System.Net.NetworkInformation;
 using System.Diagnostics.Metrics;
+using System.Threading;
 
+namespace aaa
+{
+
+}
 namespace lab03
 {
     
@@ -51,6 +56,17 @@ namespace lab03
             }
             return value;
         }
+        
+        public bool Contains(T q)
+        {
+            if (this.IsEmpty())
+                throw new Exception("Очередь не заполнена.");
+            while (_Count > 0)
+            {
+                if(Comparer(object)q)
+            }
+        }
+
         public int Size
         {
             get { return _Size; }
@@ -248,6 +264,7 @@ namespace lab03
                 Console.WriteLine("Осталось: " + c);
             }
             Console.WriteLine("Всего осталось: " + q1.Count.ToString());
+            q1.Contains(27);
             Console.Read();
         }
     }

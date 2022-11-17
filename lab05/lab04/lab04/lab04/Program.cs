@@ -6,7 +6,7 @@ using System.Xml.Linq;
 using System.IO;
 using System.Text.Json;
 using System.Text.Json.Serialization;
-
+//using Newtonsoft.json
 namespace lab05
 {
 
@@ -91,27 +91,7 @@ namespace lab05
             Console.WriteLine($"Количество хищных птиц: {countOfHishnihBirds}");
             AnimalList = animalList;
         }
-        public void SortAnimalList()
-        {
-            AnimalList.Sort((x, y) => x.Birth.CompareTo(y.Birth));
-        }
-        public void PrintAnimalList()
-        {
-            //Console.ForegroundColor = ConsoleColor.Red;
-            foreach (var item in AnimalList) Console.WriteLine(item.Name);
-            SortAnimalList();
-            Console.WriteLine();
-            foreach (var item in AnimalList) Console.WriteLine(item.Name);
-        }
-        public void Add(Animal item)
-        {
-            AnimalList.Add(item);
-            SortAnimalList();
-        }
-        public void Delete(Animal item)
-        {
-            AnimalList.Remove(item);
-        }
+
     }
     enum DayTime
     {

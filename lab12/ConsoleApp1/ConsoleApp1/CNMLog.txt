@@ -1,0 +1,142 @@
+10.11.2022 2:39:48
+Free space on the disk C:\ - 236018491392 bytes 
+------------------------------
+10.11.2022 2:39:48
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+10.11.2022 2:39:48
+All drives information : 
+[
+Name - C:\,Total size - 511440576512,Free space - 236018491392 , Volume label - ]
+Name - D:\,Total size - 125461856256,Free space - 123469987840 , Volume label - ]
+]
+
+------------------------------
+10.11.2022 2:39:48
+Full path to the CNMLog.txt - C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab12\ConsoleApp1\ConsoleApp1\CNMLog.txt
+------------------------------
+10.11.2022 2:39:48
+[
+File name: CNMLog.txt
+Size: 624 bytes
+File extension: .txt
+]
+
+------------------------------
+10.11.2022 2:39:48
+File CNMLog.txt : date of creation - 10.11.2022 2:39:48, date of last edit - 10.11.2022 2:39:48
+------------------------------
+10.11.2022 2:39:48
+Time of the directory creation - 02.09.2022 15:06:08
+------------------------------
+10.11.2022 2:39:48
+The number of files - 0
+------------------------------
+10.11.2022 2:39:48
+Number of subdirectories - 13
+------------------------------
+10.11.2022 2:39:48
+Parent Directory - C:\Users\HP\Флешка\ООП
+------------------------------
+10.11.2022 2:39:48
+File manager has inspected C:\
+------------------------------
+10.11.2022 2:39:48
+File manager has copied .cs files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\
+------------------------------
+10.11.2022 2:39:48
+File manager has archived files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\CNMInspect and unarchived
+------------------------------
+10.11.2022 15:07:34
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+10.11.2022 15:07:34
+All drives information : 
+[
+Name - C:\,Total size - 511440576512,Free space - 237580779520 , Volume label - ]
+Name - D:\,Total size - 125461856256,Free space - 123469987840 , Volume label - ]
+]
+
+------------------------------
+10.11.2022 15:07:34
+Full path to the CNMLog.txt - C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab12\ConsoleApp1\ConsoleApp1\CNMLog.txt
+------------------------------
+10.11.2022 15:07:34
+[
+File name: CNMLog.txt
+Size: 2377 bytes
+File extension: .txt
+]
+
+------------------------------
+10.11.2022 15:07:34
+File CNMLog.txt : date of creation - 10.11.2022 2:39:48, date of last edit - 10.11.2022 15:07:34
+------------------------------
+10.11.2022 15:07:34
+Time of the directory creation - 02.09.2022 15:06:08
+------------------------------
+10.11.2022 15:07:34
+The number of files - 0
+------------------------------
+10.11.2022 15:07:34
+Number of subdirectories - 16
+------------------------------
+10.11.2022 15:07:34
+Parent Directory - C:\Users\HP\Флешка\ООП
+------------------------------
+10.11.2022 15:07:34
+File manager has inspected C:\
+------------------------------
+10.11.2022 15:07:34
+File manager has copied .cs files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\
+------------------------------
+10.11.2022 15:07:34
+File manager has archived files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\CNMInspect and unarchived
+------------------------------
+10.11.2022 15:14:34
+File system type and drive format of  C:\ : Fixed, NTFS
+------------------------------
+10.11.2022 15:14:34
+All drives information : 
+[
+Name - C:\,Total size - 511440576512,Free space - 234855424000 , Volume label - ]
+Name - D:\,Total size - 125461856256,Free space - 123469987840 , Volume label - ]
+]
+
+------------------------------
+10.11.2022 15:14:34
+Full path to the CNMLog.txt - C:\Users\HP\Флешка\ООП\1 СЕМЕСТР\lab12\ConsoleApp1\ConsoleApp1\CNMLog.txt
+------------------------------
+10.11.2022 15:14:34
+[
+File name: CNMLog.txt
+Size: 3941 bytes
+File extension: .txt
+]
+
+------------------------------
+10.11.2022 15:14:34
+File CNMLog.txt : date of creation - 10.11.2022 2:39:48, date of last edit - 10.11.2022 15:14:34
+------------------------------
+10.11.2022 15:14:34
+Time of the directory creation - 02.09.2022 15:06:08
+------------------------------
+10.11.2022 15:14:34
+The number of files - 0
+------------------------------
+10.11.2022 15:14:34
+Number of subdirectories - 16
+------------------------------
+10.11.2022 15:14:34
+Parent Directory - C:\Users\HP\Флешка\ООП
+------------------------------
+10.11.2022 15:14:34
+File manager has inspected C:\
+------------------------------
+10.11.2022 15:14:34
+File manager has copied .cs files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\
+------------------------------
+10.11.2022 15:14:34
+File manager has archived files from C:\\Users\\HP\\Флешка\\ООП\\1 СЕМЕСТР\\lab12\\ConsoleApp1\\ConsoleApp1\\CNMInspect and unarchived
+------------------------------
+
